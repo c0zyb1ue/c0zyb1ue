@@ -15,11 +15,11 @@
   <img src="https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
 </div>
 <div align="center">
+  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white">&nbsp 
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">&nbsp
   <img src="https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=4479A1">&nbsp
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/node.js-004027?style=for-the-badge&logo=Node.js&logoColor=white">&nbsp
-  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"> 
+  <img src="https://img.shields.io/badge/node.js-004027?style=for-the-badge&logo=Node.js&logoColor=white">
 </div>
 <br>
 
