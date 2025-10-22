@@ -45,12 +45,13 @@
     <img
       src="https://img.shields.io/badge/dlcksdn1201@unist.ac.kr-14ACC2?style=for-the-badge&logo=mailboxdotorg&logoColor=white"/>&nbsp
   </a>
- 
   <a href="https://velog.io/@c0zyb1ue/posts">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white"/>&nbsp
+  </a>
+  <a href="https://www.linkedin.com/in/chanwoo-lee-b47398187">
+   <img src="http://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin"/>
   </a>
   <!-- <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">&nbsp --->
-
 </div>
 
 <br>
